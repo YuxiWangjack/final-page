@@ -1,12 +1,12 @@
 # part III final-page
 
 # The idea
-   For the idea, I choose a topic I really interested in, who is the GOAT player in tennis history,I try to develop the idea with good dataviz. Fially I found a good database that I summarize in the following link and develop my outline and my selection logic within the part one of the project. 
+   For the idea, I choose a topic I really interested in, who is the GOAT player in tennis history. I try to develop the idea with good data to support and clear dataviz . Fially, I found a good database that I summarize in the following link and develop my outline and my selection logic within the part one of the project. 
 #### My idea was recorded in 
    [The project outline](https://github.com/YuxiWangjack/final-project-part-1/blob/master/part1.md)
     
 # Design and user research
-  For the design and user research, I develop my first draft of wireframe from the part one outline and I did some 、questionnaire for my classmate, from their feedback I found that all of interviewees are understanding the research is about, and some of them feel the research is quite interesting, especially the students who are interested in tennis. And most of them understand my logic to select the best player in history. Some of them feel confused why I do not just use one standard to select the top player. After I explained to her, she got point and reckon the approach is fine. But some audience did not interested in tennis at all, and that cause me to make some change in the final version of the wireframe. 
+  For the design and user research, I developed my first draft of wireframe from the part one outline and I did some questionnaires for my classmate to ask feedback. From their feedback, I found that all of interviewees are understanding the research is about, and some of them feel the research is quite interesting, especially the students who are interested in tennis. And most of them understand my logic to select the best player in history. However,some of them feel confused why I do not just use one standard to select the top player. After I explained to her, she got point and reckon the approach is fine. But some audiences did not interested in tennis at all, and that cause me to make some change in the final version of the wireframe. 
 #### Sketches, research protocol, findings and Wireframes are found in 
    [The part 2 of final project](https://github.com/YuxiWangjack/Final-Project-part-II)
    
